@@ -10,6 +10,7 @@
 ・動画アップロード機能（firebase firestore）<br />
 ・動画再生機能（video-react）<br />
 ・動画アップロード時ローディング機能（react-loading-overlay）<br />
+・画面遷移機能（react）<br />
 # ソフトウェア構成<br />
     @google-cloud/storage: 5.0.0<br/>
     @material-ui/core: 4.9.13<br/>
