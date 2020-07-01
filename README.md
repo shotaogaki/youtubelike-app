@@ -6,7 +6,7 @@
 <img src="./sample4.png" width="400px"><img src="./sample5.png" width="400px">
 # 機能一覧：<br />
 ・googleログイン機能（firebase）<br />
-・メッセージの永続化（firebase firestore）<br />
+・動画の永続化（firebase firestore）<br />
 ・動画アップロード機能（firebase firestore）<br />
 ・動画再生機能（video-react）<br />
 ・動画アップロード時ローディング機能（react-loading-overlay）<br />
